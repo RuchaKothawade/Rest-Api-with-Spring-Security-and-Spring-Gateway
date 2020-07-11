@@ -27,13 +27,15 @@ Can Access Project StartPoint at :
         
 Port Mapping
 
-8084  -  Student  - Student-service
-8083  -  Teacher   -teacher-service
-8080  -  Gateway   - Zuul Gateway 
-8081  -   Login    - Spring Security
+Port     Service      Service Name
+8084  -  Student  -  Student-service
+8083  -  Teacher  -  teacher-service
+8080  -  Gateway  -  Zuul Gateway 
+8081  -   Login   -  Spring Security
 
 Admin :
- Username: Vishal
+
+ Username:  Vishal
  Password: 1234
 
 
